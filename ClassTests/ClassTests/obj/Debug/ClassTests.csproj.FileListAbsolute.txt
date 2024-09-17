@@ -1,0 +1,7 @@
+C:\Users\Tyler\source\repos\ClassTests\ClassTests\bin\Debug\ClassTests.exe.config
+C:\Users\Tyler\source\repos\ClassTests\ClassTests\bin\Debug\ClassTests.exe
+C:\Users\Tyler\source\repos\ClassTests\ClassTests\bin\Debug\ClassTests.pdb
+C:\Users\Tyler\source\repos\ClassTests\ClassTests\obj\Debug\ClassTests.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\ClassTests\ClassTests\obj\Debug\ClassTests.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\ClassTests\ClassTests\obj\Debug\ClassTests.exe
+C:\Users\Tyler\source\repos\ClassTests\ClassTests\obj\Debug\ClassTests.pdb
